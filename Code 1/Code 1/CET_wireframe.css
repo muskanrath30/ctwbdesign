@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+	font-family: poppins;
+}
 .mediaViewInfo {
 	--web-view-name: CET wireframe;
 	--web-view-id: CET_wireframe;
@@ -519,15 +523,27 @@ margin:0px 30px 0px 30px;
 }
 .card-body h1{
 	text-decoration: none;
-	font-size:24px;
+	font-size:20px;
 	font-weight: 600;
 	opacity: 1;
 	margin-bottom: 20px;
 }
 .card-body p{
-	font-size: 18px;
+	font-size: 16px;
 	opacity:0.81;
 }
+/*img.icon{
+	top: 1591px;
+left: 1548px;
+width: 26px;
+height: 27px;
+background: #06297e 0% 0% no-repeat padding-box;
+color:white;
+opacity: 1;
+}
+.icon{
+	color:#FFFFFF;
+}*/
 .title h2{
 	top: 1045px;
 left: 256px;
@@ -554,20 +570,17 @@ margin-bottom:50px;
 	margin-left:0px;
 	opacity: 1;
 }
-/*#Location_Link a{
-	top: 61px;
+img.search{
+	top: 50px;
 	position: absolute;
-	overflow: visible;
-	left: 1695px;
-	width: 127px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(5,5,5,1);
-}*/
+left: 1807px;
+width: 28px;
+height: 28px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 0.8;
+	
+	
+}
 .navbar a.active{
 	font-weight: bold;
 }

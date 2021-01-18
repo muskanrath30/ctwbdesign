@@ -157,32 +157,26 @@
 	color: rgba(28,28,28,1);
 }
 #Every_faculty_staff_and_studen_v {
-	left: 960px;
-	top: 1817px;
-	position: absolute;
-	overflow: visible;
-	width: 767px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 25px;
-	color: rgba(28,28,28,1);
+	top: 2030px;
+left: 998px;
+width: 766px;
+height: 149px;
+text-align: left;
+font: normal normal normal 25px/38px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
 }
 #To_generate_on_a_sustainable_b {
-	left: 960px;
-	top: 2168px;
-	position: absolute;
-	overflow: visible;
-	width: 767px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 25px;
-	color: rgba(28,28,28,1);
+	top: 2325px;
+left: 998px;
+width: 766px;
+height: 73px;
+text-align: left;
+font: normal normal normal 25px/38px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
 }
 #zuzanna-j-s9hAle7VyNk-unsplash_x {
 	fill: rgba(214,214,214,1);
@@ -584,6 +578,7 @@ opacity: 0.8;
 .navbar a.active{
 	font-weight: bold;
 }
+
 #Rectangle_49 {
 	fill: rgba(255,255,255,1);
 }
@@ -773,18 +768,15 @@ opacity: 0.8;
 	color: rgba(28,28,28,1);
 }
 #Notice_Board_b {
-	left: 119px;
-	top: 2677px;
-	position: absolute;
-	overflow: visible;
-	width: 433px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 66px;
-	color: rgba(28,28,28,1);
+	top: 2883px;
+left: 157px;
+width: 294px;
+height: 63px;
+text-align: center;
+font: normal normal 600 45px/56px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
 }
 #Announcements {
 	left: 119px;
@@ -801,47 +793,26 @@ opacity: 0.8;
 	color: rgba(28,28,28,1);
 }
 #Vision {
-	left: 960px;
-	top: 1685px;
-	position: absolute;
-	overflow: visible;
-	width: 207px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 66px;
-	color: rgba(28,28,28,1);
+top: 1944px;
+left: 998px;
+width: 140px;
+height: 63px;
+text-align: center;
+font: normal normal 600 45px/56px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
 }
 #Mission {
-	left: 960px;
-	top: 2036px;
-	position: absolute;
-	overflow: visible;
-	width: 255px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 66px;
-	color: rgba(28,28,28,1);
-}
-#Image {
-	opacity: 0.301;
-	left: 423px;
-	top: 2034px;
-	position: absolute;
-	overflow: visible;
-	width: 155px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 47px;
-	color: rgba(0,0,0,1);
+	top: 2239px;
+left: 998px;
+width: 172px;
+height: 63px;
+text-align: center;
+font: normal normal 600 45px/56px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
 }
 #Our_Recruiters {
 	left: 119px;
@@ -872,18 +843,15 @@ opacity: 0.8;
 	color: rgba(28,28,28,1);
 }
 #Gallery_b {
-	left: 119px;
-	top: 7828px;
-	position: absolute;
-	overflow: visible;
-	width: 241px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 66px;
-	color: rgba(28,28,28,1);
+	top: 8041px;
+left: 153px;
+width: 164px;
+height: 63px;
+text-align: center;
+font: normal normal 600 45px/56px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
 }
 #Rectangle_8 {
 	fill: rgba(234,234,234,1);
@@ -900,12 +868,13 @@ opacity: 0.8;
 	fill: rgba(234,234,234,1);
 }
 .Rectangle_56 {
-	position: absolute;
-	overflow: visible;
-	width: 942px;
-	height: 424px;
-	left: 119px;
-	top: 2833px;
+	top: 3007px;
+left: 157px;
+width: 767px;
+height: 424px;
+background: #FDA300 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 0.06;
 }
 #Rectangle_57 {
 	fill: rgba(234,234,234,1);
@@ -1315,17 +1284,6 @@ opacity: 0.8;
 	left: 1500px;
 	top: 3365px;
 }
-#Rectangle_71 {
-	fill: rgba(28,28,28,1);
-}
-.Rectangle_71 {
-	position: absolute;
-	overflow: visible;
-	width: 346px;
-	height: 110px;
-	left: 960px;
-	top: 2311px;
-}
 #Rectangle_63 {
 	fill: rgba(28,28,28,1);
 }
@@ -1362,19 +1320,6 @@ opacity: 0.8;
 	font-size: 29px;
 	color: rgba(255,255,255,1);
 }
-#Our_Students {
-	left: 1038px;
-	top: 2346px;
-	position: absolute;
-	overflow: visible;
-	width: 191px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 29px;
-	color: rgba(255,255,255,1);
 }
 #Show_more_c {
 	left: 1591px;
@@ -1403,4 +1348,27 @@ opacity: 0.8;
 	font-weight: normal;
 	font-size: 29px;
 	color: rgba(255,255,255,1);
+}
+.visionmissionimg{
+	top: 1922px;
+left: 157px;
+width: 762px;
+height: 617px;
+background: transparent url('img/NEW BUILDING.png') 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+.button{
+	top: 2458px;
+left: 998px;
+width: 256px;
+height: 81px;
+background: #FDA300 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+text-align: center;
+font: normal normal 600 19px/25px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
 }

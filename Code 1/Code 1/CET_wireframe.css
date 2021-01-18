@@ -19,7 +19,7 @@
 	position: absolute;
 	width: 1920px;
 	height: 10076px;
-	background-color: rgba(255,255,255,1);
+	background-color:rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: CET wireframe;
 	--web-view-id: CET_wireframe;
@@ -127,7 +127,7 @@
 	left: 0px;
 	top: 6858px;
 }
-#Rectangle_2 {
+/*#Rectangle_2 {
 	fill: rgba(128,128,128,1);
 }
 .Rectangle_2 {
@@ -137,7 +137,7 @@
 	height: 895px;
 	left: 0px;
 	top: 0px;
-}
+}*/
 #Every_faculty_staff_and_studen {
 	left: 418px;
 	top: 1308px;
@@ -400,81 +400,165 @@
 	left: 0px;
 	top: 9452px;
 }
-#Home {
-	left: 566px;
-	top: 61px;
+.navbar{
+	top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 128px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 20px #90909043;
+	opacity: 1
+}
+.navbar a{
+	text-decoration: none;	
+}
+#Home a{
+	top: 50px;
 	position: absolute;
 	overflow: visible;
-	width: 61px;
+    left: 935px;
+    width: 60px;
+    height: 28px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Poppins;
 	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color:  #808080;	
+}
+#Home a.active{
 	font-weight: bold;
-	font-size: 20px;
-	color: rgba(255,255,255,1);
+	color: #06297e;
 }
-#Academics {
-	left: 711px;
-	top: 61px;
+#Academics a{
+	top: 50px;
 	position: absolute;
 	overflow: visible;
-	width: 115px;
+	left: 1077px;
+    width: 114px;
+    height: 28px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
-	color: rgba(255,255,255,1);
+	color:#808080;
 }
-#Admission {
-	left: 923px;
-	top: 61px;
+#Admission a{
+	top: 50px;
 	position: absolute;
 	overflow: visible;
-	width: 105px;
+	left: 1286px;
+    width: 104px;
+    height: 28px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
-	color: rgba(255,255,255,1);
+	color: #808080;
 }
-#Student {
-	left: 1117px;
-	top: 61px;
+#Student a{
+	top: 50px;
 	position: absolute;
 	overflow: visible;
-	width: 79px;
+	left: 1477px;
+    width: 78px;
+    height: 28px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
-	color: rgba(255,255,255,1);
+	color: #808080;
 }
-#Faculty {
-	left: 1282px;
-	top: 61px;
+#Faculty a{
+	top: 50px;
 	position: absolute;
 	overflow: visible;
-	width: 73px;
+	left: 1640px;
+    width: 72px;
+    height: 28px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
-	color: rgba(255,255,255,1);
+	color:#808080;
 }
-#Location_Link {
+img{
+	top: 128px;
+	left: 0px;
+	width: 1920px;
+	height: 767px;
+	/*background: transparent url("")*/
+}
+.card{
+	display: inline-flex;
+	top: 1433px;
+	margin-left: 120px;
+	margin-right:120px;
+	margin-top:120px;
+}
+.card-body{
+	
+    width: 342px;
+	height: 214px;
+	background: #06297E 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+
+color:white;
+text-align: center;
+padding: 50px 0px 50px 0px;
+margin:0px 30px 0px 30px;
+}
+.card-body h1{
+	text-decoration: none;
+	font-size:24px;
+	font-weight: 600;
+	opacity: 1;
+	margin-bottom: 20px;
+}
+.card-body p{
+	font-size: 18px;
+	opacity:0.81;
+}
+.title h2{
+	top: 1045px;
+left: 256px;
+/*width: 1408px;
+height: 53px;*/
+text-align: center;
+font: normal normal 600 32px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+margin-left:0px;
+margin-top:100px;
+margin-bottom:50px;
+}
+.title p{
+	top: 1121px;
+	left: 418px;
+	/*width: 1084px;
+	height: 111px;*/
+	text-align: center;
+	font: normal normal normal 25px Poppins;
+	letter-spacing: 0px;
+	color: #1C1C1C;
+	margin-left:0px;
+	opacity: 1;
+}
+/*#Location_Link a{
+	top: 61px;
+	position: absolute;
+	overflow: visible;
 	left: 1695px;
-	top: 61px;
-	position: absolute;
-	overflow: visible;
 	width: 127px;
 	white-space: nowrap;
 	text-align: center;
@@ -483,6 +567,9 @@
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(5,5,5,1);
+}*/
+.navbar a.active{
+	font-weight: bold;
 }
 #Rectangle_49 {
 	fill: rgba(255,255,255,1);
@@ -495,50 +582,50 @@
 	left: 36px;
 	top: 33px;
 }
-#Rectangle_3 {
-	fill: rgba(28,28,28,1);
+/*#Rectangle_3 {
+	fill: #06297e;
 }
 .Rectangle_3 {
 	position: absolute;
 	overflow: visible;
 	width: 342px;
 	height: 214px;
-	left: 223px;
-	top: 788px;
+	left: 190px;
+	top: 1433px;
 }
 #Rectangle_4 {
-	fill: rgba(28,28,28,1);
+	fill: #06297e;
 }
 .Rectangle_4 {
 	position: absolute;
 	overflow: visible;
-	width: 344px;
+	width: 342px;
 	height: 214px;
-	left: 598px;
-	top: 788px;
+	left: 590px;
+	top: 1433px;
 }
 #Rectangle_6 {
-	fill: rgba(28,28,28,1);
+	fill: #06297e;
 }
 .Rectangle_6 {
 	position: absolute;
 	overflow: visible;
-	width: 346px;
-	height: 216px;
-	left: 974px;
-	top: 788px;
+	width: 342px;
+	height: 214px;
+	left: 989px;
+	top: 1433px;
 }
 #Rectangle_48 {
-	fill: rgba(28,28,28,1);
+	fill: #06297e;
 }
 .Rectangle_48 {
 	position: absolute;
 	overflow: visible;
-	width: 346px;
-	height: 216px;
-	left: 1352px;
-	top: 788px;
-}
+	width: 342px;
+	height: 214px;
+	left: 1389px;
+	top: 1433px;
+}*/
 #Registration_Portal {
 	left: 1432px;
 	top: 881px;
@@ -640,6 +727,7 @@
 	color: rgba(255,255,255,1);
 }
 #Path_110 {
+	display: none;
 	fill: transparent;
 	stroke: rgba(10,10,10,1);
 	stroke-width: 2px;

@@ -32,17 +32,6 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-#zuzanna-j-s9hAle7VyNk-unsplash {
-	fill: rgba(234,234,234,1);
-}
-.zuzanna-j-s9hAle7VyNk-unsplash {
-	position: absolute;
-	overflow: visible;
-	width: 762px;
-	height: 762px;
-	left: 119px;
-	top: 1685px;
-}
 #zuzanna-j-s9hAle7VyNk-unsplash_l {
 	fill: rgba(234,234,234,1);
 }
@@ -155,28 +144,6 @@
 	font-weight: normal;
 	font-size: 25px;
 	color: rgba(28,28,28,1);
-}
-#Every_faculty_staff_and_studen_v {
-	top: 2030px;
-left: 998px;
-width: 766px;
-height: 149px;
-text-align: left;
-font: normal normal normal 25px/38px Poppins;
-letter-spacing: 0px;
-color: #1C1C1C;
-opacity: 1;
-}
-#To_generate_on_a_sustainable_b {
-	top: 2325px;
-left: 998px;
-width: 766px;
-height: 73px;
-text-align: left;
-font: normal normal normal 25px/38px Poppins;
-letter-spacing: 0px;
-color: #1C1C1C;
-opacity: 1;
 }
 #zuzanna-j-s9hAle7VyNk-unsplash_x {
 	fill: rgba(214,214,214,1);
@@ -767,17 +734,6 @@ opacity: 0.8;
 	font-size: 38px;
 	color: rgba(28,28,28,1);
 }
-#Notice_Board_b {
-	top: 2883px;
-left: 157px;
-width: 294px;
-height: 63px;
-text-align: center;
-font: normal normal 600 45px/56px Poppins;
-letter-spacing: 0px;
-color: #06297E;
-opacity: 1;
-}
 #Announcements {
 	left: 119px;
 	top: 3692px;
@@ -791,28 +747,6 @@ opacity: 1;
 	font-weight: bold;
 	font-size: 66px;
 	color: rgba(28,28,28,1);
-}
-#Vision {
-top: 1944px;
-left: 998px;
-width: 140px;
-height: 63px;
-text-align: center;
-font: normal normal 600 45px/56px Poppins;
-letter-spacing: 0px;
-color: #06297E;
-opacity: 1;
-}
-#Mission {
-	top: 2239px;
-left: 998px;
-width: 172px;
-height: 63px;
-text-align: center;
-font: normal normal 600 45px/56px Poppins;
-letter-spacing: 0px;
-color: #06297E;
-opacity: 1;
 }
 #Our_Recruiters {
 	left: 119px;
@@ -864,18 +798,6 @@ opacity: 1;
 	left: 119px;
 	top: 3848px;
 }
-#Rectangle_56 {
-	fill: rgba(234,234,234,1);
-}
-.Rectangle_56 {
-	top: 3007px;
-left: 157px;
-width: 767px;
-height: 424px;
-background: #FDA300 0% 0% no-repeat padding-box;
-border-radius: 10px;
-opacity: 0.06;
-}
 #Rectangle_57 {
 	fill: rgba(234,234,234,1);
 }
@@ -914,22 +836,6 @@ opacity: 0.06;
 	font-size: 32px;
 	color: rgba(28,28,28,1);
 }
-#Title_ce {
-	left: 557px;
-	top: 2978px;
-	position: absolute;
-	overflow: visible;
-	width: 67px;
-	white-space: nowrap;
-	line-height: 36px;
-	margin-top: -2px;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 32px;
-	color: rgba(28,28,28,1);
-}
 #Date {
 	left: 293px;
 	top: 4091px;
@@ -946,21 +852,6 @@ opacity: 0.06;
 	font-size: 32px;
 	color: rgba(28,28,28,1);
 }
-#Slider {
-	opacity: 0.301;
-	left: 221px;
-	top: 3013px;
-	position: absolute;
-	overflow: visible;
-	width: 133px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 47px;
-	color: rgba(0,0,0,1);
-}
 #Slider_ch {
 	opacity: 0.301;
 	left: 265px;
@@ -976,41 +867,9 @@ opacity: 0.06;
 	font-size: 47px;
 	color: rgba(0,0,0,1);
 }
-#Date_ci {
-	left: 552px;
-	top: 3023px;
-	position: absolute;
-	overflow: visible;
-	width: 77px;
-	white-space: nowrap;
-	line-height: 36px;
-	margin-top: -2px;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 32px;
-	color: rgba(28,28,28,1);
-}
 #Time {
 	left: 291px;
 	top: 4136px;
-	position: absolute;
-	overflow: visible;
-	width: 81px;
-	white-space: nowrap;
-	line-height: 36px;
-	margin-top: -2px;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 32px;
-	color: rgba(28,28,28,1);
-}
-#Time_ck {
-	left: 550px;
-	top: 3068px;
 	position: absolute;
 	overflow: visible;
 	width: 81px;
@@ -1273,17 +1132,6 @@ opacity: 0.06;
 	font-size: 29px;
 	color: rgba(255,255,255,1);
 }
-#Rectangle_62 {
-	fill: rgba(28,28,28,1);
-}
-.Rectangle_62 {
-	position: absolute;
-	overflow: visible;
-	width: 346px;
-	height: 110px;
-	left: 1500px;
-	top: 3365px;
-}
 #Rectangle_63 {
 	fill: rgba(28,28,28,1);
 }
@@ -1305,21 +1153,6 @@ opacity: 0.06;
 	height: 110px;
 	left: 1500px;
 	top: 9164px;
-}
-#Show_more {
-	left: 1591px;
-	top: 3400px;
-	position: absolute;
-	overflow: visible;
-	width: 165px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Poppins;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 29px;
-	color: rgba(255,255,255,1);
-}
 }
 #Show_more_c {
 	left: 1591px;
@@ -1349,26 +1182,282 @@ opacity: 0.06;
 	font-size: 29px;
 	color: rgba(255,255,255,1);
 }
-.visionmissionimg{
-	top: 1922px;
-left: 157px;
-width: 762px;
-height: 617px;
-background: transparent url('img/NEW BUILDING.png') 0% 0% no-repeat padding-box;
-border-radius: 10px;
+
+
+
+/*code for notice board and vision and mission part*/
+#vision h2{
+	position:absolute;
+	top: 1944px;
+left: 998px;
+width: 140px;
+height: 63px;
+text-align: center;
+font: normal normal 600 45px/56px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+}
+
+#mission h2{
+	position: absolute;
+	top: 2239px;
+left: 998px;
+width: 172px;
+height: 63px;
+text-align: center;
+font: normal normal 600 45px/56px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+}
+
+#passage1 p{
+	position: absolute;
+	top: 2030px;
+left: 998px;
+text-align: left;
+font: normal normal normal 25px/38px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+#passage2 p{
+	position: absolute;
+	top: 2325px;
+left: 998px;
+width: 766px;
+height: 73px;
+text-align: left;
+font: normal normal normal 25px/38px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
 opacity: 1;
 }
 .button{
+	position: absolute;
 	top: 2458px;
 left: 998px;
 width: 256px;
 height: 81px;
-background: #FDA300 0% 0% no-repeat padding-box;
+background: #FDA300 0% 0% no-repeat ;
 border-radius: 5px;
 opacity: 1;
 text-align: center;
 font: normal normal 600 19px/25px Poppins;
 letter-spacing: 0px;
 color: #FFFFFF;
+opacity: 1;
+text-align: center;
+font: normal normal 600 19px/25px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.Notice_board p{
+	position: absolute;
+	top: 2883px;
+left: 157px;
+width: 294px;
+height: 63px;
+text-align: center;
+font: normal normal 600 45px/56px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+}
+
+#box1 #box2{
+	fill:#FDA300;
+}
+
+.box1{
+	position: absolute;
+	top: 3007px;
+left: 157px;
+width: 767px;
+height: 424px;
+background: #FDA300 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 0.06;
+}
+
+#xyz1{
+	position: absolute;
+	top: 3075px;
+left: 220px;
+width: 112px;
+height: 29px;
+text-align: center;
+font: normal normal 600 21px/45px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+.box2{
+	position: absolute;
+	top: 3007px;
+left: 997px;
+width: 767px;
+height: 424px;
+background: #FDA300 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 0.06;
+}
+
+#Date1{
+	position: absolute;
+	top: 3075px;
+left: 220px;
+width: 112px;
+height: 29px;
+text-align: center;
+font: normal normal 600 21px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+#Title1{
+	position: absolute;
+	top: 3130px;
+	left:195px;
+width: 494px;
+height: 39px;
+text-align: center;
+font: normal normal 600 28px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+}
+
+#Notice1 p{
+	position: absolute;
+	top: 3211px;
+left: 228px;
+width: 643px;
+height: 66px;
+text-align: left;
+font: normal normal medium 23px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+#link1 a{
+	position: absolute;
+	top: 3343px;
+left: 228px;
+width: 120px;
+height: 20px;
+text-align: left;
+font: normal normal bold 14px Poppins;
+letter-spacing: 0px;
+color: #FDA300;
+opacity: 1;
+}
+
+#Date2{
+	position: absolute;
+	top: 3075px;
+left: 1061px;
+width: 112px;
+height: 29px;
+text-align: center;
+font: normal normal 600 21px/45px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+#Title2{
+	position: absolute;
+	top: 3130px;
+left: 1034px;
+width: 494px;
+height: 39px;
+text-align: center;
+font: normal normal 600 28px/45px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+}
+
+#Notice2{
+	position: absolute;
+	top: 3211px;
+left: 1070px;
+width: 643px;
+height: 66px;
+text-align: left;
+font: normal normal medium 23px/34px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+#link2 a{
+	position: absolute;
+	top: 3343px;
+left: 1070px;
+width: 120px;
+height: 20px;
+text-align: left;
+font: normal normal bold 14px/23px Poppins;
+letter-spacing: 0px;
+color: #FDA300;
+opacity: 1;
+}
+
+#viewall a{
+	position: absolute;
+	top: 2940px;
+left: 1511px;
+width: 88px;
+height: 32px;
+text-align: center;
+font: normal normal medium  Poppins;
+font-size: 23px;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+.triangle-left{
+	position: absolute;
+	top: 2940px;
+left: 1660px;
+width: 37px;
+height: 37px;
+	width: 0;
+	height: 0;
+	border-top: 10px solid transparent;
+	border-right: 20px solid #EAEAEA;
+	border-bottom: 10px solid transparent;
+}
+
+.triangle-right{
+	position: absolute;
+	top: 2940px;
+left: 1727px;
+width: 37px;
+height: 37px;
+	width: 0;
+	height: 0;
+	border-top: 10px solid transparent;
+	border-left: 20px solid #06297E;
+	border-bottom: 10px solid transparent;
+}
+
+img{
+	position: absolute;
+	top: 1922px;
+	left:157px;
+	width: 762px;
+height: 617px;
+	border-radius: 10px;
 opacity: 1;
 }

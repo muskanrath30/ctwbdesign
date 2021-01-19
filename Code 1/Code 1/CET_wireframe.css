@@ -120,17 +120,32 @@
 	left: 0px;
 	top: 6858px;
 }
-/*#Rectangle_2 {
-	fill: rgba(128,128,128,1);
+#Rectangle_1 {
+	fill: rgba(255,255,255,0.9);
+}
+.Rectangle_1 {
+	top: 256px;
+    left: 0px;
+    width: 1920px;
+    height: 128px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 20px #90909043;
+    opacity: 1;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,0.8);
 }
 .Rectangle_2 {
-	position: absolute;
-	overflow: visible;
-	width: 1920px;
-	height: 895px;
-	left: 0px;
-	top: 0px;
-}*/
+	top: 256px;
+    left: 0px;
+    width: 1920px;
+    height: 767px;
+    background-image: url('mainbuilding.png');
+    background-size:1920px 767px;
+    z-index:1;
+    display:block;
+    opacity: 1;
+}
 #Every_faculty_staff_and_studen {
 	left: 418px;
 	top: 1308px;
@@ -455,13 +470,6 @@
 	font-weight: normal;
 	font-size: 20px;
 	color:#808080;
-}
-img{
-	top: 128px;
-	left: 0px;
-	width: 1920px;
-	height: 767px;
-	/*background: transparent url("")*/
 }
 .card{
 	display: inline-flex;

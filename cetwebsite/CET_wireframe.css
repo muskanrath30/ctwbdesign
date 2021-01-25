@@ -3,7 +3,7 @@
 	font-family: poppins;
 }
 .mediaViewInfo {
-	--web-view-name: CET wireframe;
+	--web-view-name: CET-Bhubaneswar;
 	--web-view-id: CET_wireframe;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
@@ -25,7 +25,7 @@
 	height: 10076px;
 	background-color:rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: CET wireframe;
+	--web-view-name: CET-Bhubaneswar;
 	--web-view-id: CET_wireframe;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;

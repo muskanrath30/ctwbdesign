@@ -644,11 +644,11 @@ opacity: 1;
 .navbar a{
 	text-decoration: none;	
 }
-#Home a{
+#nav a{
 	top: 50px;
 	position: absolute;
 	overflow: visible;
-    left: 935px;
+   /* left: 935px;*/
     width: 60px;
     height: 28px;
 	white-space: nowrap;
@@ -659,11 +659,11 @@ opacity: 1;
 	font-size: 20px;
 	color:  #808080;	
 }
-#Home a.active{
+#nav a.active{
 	font-weight: bold;
 	color: #06297e;
 }
-#Academics a{
+/*#Academics a{
 	top: 50px;
 	position: absolute;
 	overflow: visible;
@@ -722,7 +722,7 @@ opacity: 1;
 	font-weight: normal;
 	font-size: 20px;
 	color:#808080;
-}
+}*/
 .card{
 	display: inline-flex;
 	top: 1433px;

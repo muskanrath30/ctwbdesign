@@ -2907,3 +2907,113 @@ color: #06297E;
 opacity: 1;
 white-space: nowrap;
 }
+
+.im1{
+	position: absolute;
+	top: 1504px;
+left: 155px;
+width: 507px;
+height: 350px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.im2{
+	position: absolute;
+	top: 1504px;
+left: 707px;
+width: 507px;
+height: 350px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.im3{
+	position: absolute;
+	top: 1504px;
+left: 1259px;
+width: 507px;
+height: 350px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.im4{
+	position: absolute;
+	top: 1921px;
+left: 155px;
+width: 507px;
+height: 350px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.im5{
+	position: absolute;
+	top: 1921px;
+left: 707px;
+width: 507px;
+height: 350px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.im6{
+	position: absolute;
+	top: 1921px;
+left: 1259px;
+width: 507px;
+height: 350px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.im7{
+	position: absolute;
+	top: 3101px;
+left: 155px;
+width: 507px;
+height: 350px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.im8{
+	position: absolute;
+	top: 3101px;
+left: 707px;
+width: 507px;
+height: 350px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.im9{
+	position: absolute;
+	top: 3101px;
+left: 1259px;
+width: 507px;
+height: 350px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.alumniimage{
+	position: absolute;
+	top: 3741px;
+left: 1002px;
+width: 762px;
+height: 617px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}

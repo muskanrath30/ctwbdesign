@@ -2716,4 +2716,68 @@ letter-spacing: 0px;
 color: #FDA300;
 opacity: 1;
 }
+.lab{
+	display:flex;
+}
+.plab{
+	top: 1627px;
 
+width: 762px;
+height: 617px;
+/*background: transparent url('img/CETB_Physics_Laboratory_1.png') 0% 0% no-repeat padding-box;*/
+border-radius: 10px;
+opacity: 1;
+}
+#ug-table{
+	position:absolute;
+	width:84%;
+	top: 2400px;
+	left: 150px;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding:20px;
+  }
+  th, td {
+	padding: 5px;
+	text-align: left;    
+  }
+tr th{
+	padding: 10px;
+	font-size:19px;
+}
+tr td{
+	padding:10px;
+	font-size:16px;
+}
+.head{
+	background-color: rgb(182,220,243);
+}
+#pg-table{
+	position:absolute;
+	width:84%;
+	top: 3200px;
+	left: 150px;
+}
+#phd-table{
+	position:absolute;
+	width:84%;
+	top: 4600px;
+	left: 150px;
+}
+#autonomous-table{
+	position:absolute;
+	width:84%;
+	top: 5200px;
+	left: 150px;
+	display: table;
+}
+#autonomous-table table td{
+	border:1px solid black;
+	padding:10px;
+	font-size:19px;
+	background-color: #5eaaf8; ;
+	color:white;
+	
+}

@@ -2777,9 +2777,14 @@ tr td{
 	border:1px solid black;
 	padding:10px;
 	font-size:19px;
-	background-color: #5eaaf8; ;
+	background-color: #5eaaf8; 
 	color:white;
 	
+}
+td:hover{
+	color:white;
+	background-color:  #5eaaf8;
+	cursor:pointer;
 }
 /*.slideshow{
 	position: relative;

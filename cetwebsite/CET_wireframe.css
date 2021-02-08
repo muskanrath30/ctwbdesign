@@ -2895,3 +2895,12 @@ td:hover{
 	margin-left:30px;
 	opacity: 1;
 }
+.old_building{
+	position: absolute;
+	top: 128px;
+left: 0px;
+width: 1920px;
+height: 767px;
+background: transparent url('img/5.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}

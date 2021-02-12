@@ -2904,3 +2904,165 @@ height: 767px;
 background: transparent url('img/5.png') 0% 0% no-repeat padding-box;
 opacity: 1;
 }
+
+.Studentclubs h1{
+    position: absolute;
+    top: 1024px;
+left: 154px;
+width: 352px;
+height: 68px;
+text-align: center;
+font: normal normal 600 49px/32px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+}
+
+.Studentclubs p{
+    position: absolute;
+    top: 1142px;
+left: 154px;
+width: 1613px;
+height: 263px;
+text-align: left;
+font: normal normal normal 25px/38px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+.gal_image1{
+    position: absolute;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.rex1{
+    position: absolute;
+    top: 2390px;
+left: 832px;
+width: 256px;
+height: 81px;
+background: #FDA300 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+}
+
+.StudentActivityCentre h1{
+    position: absolute;
+    top: 2640px;
+left: 155px;
+width: 578px;
+height: 68px;
+text-align: center;
+font: normal normal 600 49px/32px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+}
+
+.StudentActivityCentre p{
+    position: absolute;
+    top: 2758px;
+left: 154px;
+width: 1613px;
+height: 187px;
+text-align: left;
+font: normal normal normal 25px/38px Poppins;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+.vmb{
+    position: absolute;
+    top: 2417px;
+left: 909px;
+width: 102px;
+height: 27px;
+text-align: center;
+font: normal normal 600 19px/25px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.bottomimg1{
+    position: absolute;
+    background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.bigrex{
+    position: absolute;
+    top: 3647px;
+left: 0px;
+width: 1920px;
+height: 804px;
+background: #FFF9EF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.OurAlumni h3{
+    position: absolute;
+    top: 3800px;
+left: 153px;
+width: 258px;
+height: 63px;
+text-align: center;
+font: normal normal 600 45px/56px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+}
+
+.OurAlumni p{
+    position: absolute;
+    top: 3894px;
+left: 153px;
+width: 558px;
+height: 293px;
+text-align: left;
+font: normal normal medium 34px Poppins;
+font-size: 23px;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+}
+
+.bigggimg{
+    position: absolute;
+    top: 3741px;
+left: 1002px;
+width: 762px;
+height: 617px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+
+.rex2{
+    position: absolute;
+    top: 4218px;
+left: 153px;
+width: 256px;
+height: 81px;
+background: #FDA300 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+}
+
+.vst{
+    position: absolute;
+    top: 4245px;
+left: 221px;
+width: 122px;
+height: 27px;
+text-align: center;
+font: normal normal 600 19px/25px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}

@@ -5029,4 +5029,115 @@ white-space: nowrap;
 }
 
 
+/* exam schedule autonomous */
+.UGsectionofes h6{
+	position: absolute;
+left: 130px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 25px Poppins;
+letter-spacing: 0px;
+color: #1c1c1c;
+opacity: 1;
+white-space: nowrap;
+}
+
+.UGsectionofes h1{
+	position: absolute;
+	top: 1000px;
+left: 111px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 49px/32px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+.UGsectionofes a{
+	position: absolute;
+left: 200px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 25px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+text-align: left;
+}
+
+.UGsectionofes h2{
+	position: absolute;
+left: 200px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 30px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+/*PG exam schedule*/
+.PGsectionofes h1{
+	position: absolute;
+	top: 2200px;
+left: 111px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 49px/32px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+.PGsectionofes a{
+	position: absolute;
+left: 210px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 25px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+text-align: left;
+}
+
+.PGsectionofes h2{
+	position: absolute;
+left: 210px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 30px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+.PGsectionofes h6{
+	position: absolute;
+left: 150px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 25px Poppins;
+letter-spacing: 0px;
+color: #1c1c1c;
+opacity: 1;
+white-space: nowrap;
+}
+
+
 

@@ -5302,6 +5302,338 @@ color: #06297E;
 opacity: 1;
 white-space: nowrap;
 }
+.tender_x h2{
+	font-family: Poppins;
+    font-weight: bolder;
+    font-size: 30px;
+    padding: 20px 0px 50px 300px;
+    margin: 0px;
+    color: #635985;
+    left:120px;
+}
+.facilities h1{
+	position: absolute;
+	top:830px;
+	left:0px;
+	text-align: left;
+	font: normal normal 600 40px Poppins;
+	letter-spacing: 0px;
+	color: #06297E;
+	opacity: 1;
+	margin-left:150px;
+	margin-top:100px;
+	margin-bottom:50px;
+	font-weight: bolder;
+}
+.facilities p{
+	position: absolute;
+	top:1042px;
+	left:1px;
+	text-align: left;
+	font: normal normal normal 25px Poppins;
+	letter-spacing: 0px;
+	color: #1C1C1C;
+	margin-left:150px;
+	opacity: 1;
+	text-align: justify-all;
+}
+.tabfontboldup h2{
+	position: absolute;
+	top:1680px;
+	left:1px;
+    left:1px;
+	text-align: left;
+	font-size: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	letter-spacing: 0px;
+	color: #666666;
+	margin-left:150px;
+	opacity: 1;
+}
+.tabfontboldup p{
+	position: absolute;
+	top:1750px;
+	left:1px;
+	text-align: left;
+	font: normal normal normal 25px Poppins;
+	letter-spacing: 0px;
+	color: #000000;
+	margin-left:150px;
+	opacity: 1;
+}
+.u{
+	position: absolute;
+	top:1900px;
+	left:1px;
+	text-align: left;
+	font-size: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	letter-spacing: 0px;
+	color: #666666;
+	margin-left:150px;
+	opacity: 1;
+}
+.u1{
+	position: absolute;
+	top:1930px;
+	left:1px;
+	text-align: left;
+	font-size: 25px;
+	font-family: Poppins;
+	letter-spacing: 0px;
+	color: #666666;
+	margin-left:150px;
+	opacity: 1;
+}
+.u2{
+	position: absolute;
+	top:2130px;
+	left:1px;
+	text-align: left;
+	font-size: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	letter-spacing: 0px;
+	color: #666666;
+	margin-left:150px;
+	opacity: 1;
+}
+#table{
+    position: absolute;
+    width: 84%;
+    top: 2210px;
+    left: 150px;
+}
+#table2{
+	position: absolute;
+	top:2520px;
+	font-size: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	letter-spacing: 0px;
+	color: #666666;
+	margin-left:150px;
+	opacity: 1; 
+	text-align: left;
+	left:1px;
+}
+#table1{
+    position: absolute;
+    width: 84%;
+    top: 2600px;
+    left: 150px;
+}
+.inlink{
+	position: absolute;
+	top: 3300px;
+	left:800px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #0066FF;
+    text-decoration: underline;
+}
+#Notice_Board6 a{
+	top:3527px;
+	left: 461px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#departments5 a{
+	top:3587px;
+	left: 461px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#placement6 a{
+	top:3647px;
+	left: 449px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#tender5 a{
+	top:3707px;
+	left: 432px;
+	width: 200px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#teqip5 a{
+	top:3767px;
+	left: 426px;
+	width: 200px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#transportation5 a{
+    top:3527px;
+	left: 795px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#libraries5 a{
+    top:3587px;
+	left: 766px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#ailab5 a{
+    top:3647px;
+    left: 785px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#clubs5 a{
+    top:3707px;
+    left: 783px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#sports5 a{
+    top:3767px;
+    left: 786px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#Educational_Program5 a{
+    top:3527px;
+	left: 1139px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+	text-decoration: none;
+}
+#social_incentives5 a{
+    top:3587px;
+	left: 1117px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+	text-decoration: none;
+}
+#Campus_Life5 a{
+    top:3647px;
+	left: 1096px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+	text-decoration: none;
+}
+#About_CET5 a{
+    top:3707px;
+	left: 1085px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+	text-decoration: none;
+}
+#Events5 a{
+	top:3767px;
+	left: 1070px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;	
+   text-decoration: none;
+}
 
 
 

@@ -5170,4 +5170,138 @@ white-space: nowrap;
 text-align: left;
 }
 
+/*architecture page*/
+.Architecturesubpage h1{
+	position: absolute;
+	top: 1154px;
+left: 111px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 49px/32px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+.Architecturesubpage p{
+	position: absolute;
+	left:210px;
+	text-align: left;
+	font: normal normal normal 25px Poppins;
+	letter-spacing: 0px;
+	color: #1C1C1C;
+	opacity: 1;
+	white-space: nowrap;
+}
+
+.Architecturesubpage h2{
+	position: absolute;
+left: 210px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 30px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+.Architecturesubpage h3{
+	position: absolute;
+left: 210px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 30px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+.Architecturesubpage a{
+	position: absolute;
+left: 210px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 25px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+text-align: left;
+}
+
+/*Biotechnology*/
+
+.Biotechnologysubpage h1{
+	position: absolute;
+	top: 1154px;
+left: 111px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 49px/32px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+.Biotechnologysubpage p{
+	position: absolute;
+	left:210px;
+	text-align: left;
+	font: normal normal normal 25px Poppins;
+	letter-spacing: 0px;
+	color: #1C1C1C;
+	opacity: 1;
+	white-space: nowrap;
+}
+
+.Biotechnologysubpage h3{
+	position: absolute;
+left: 210px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 30px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+.Biotechnologysubpage a{
+	position: absolute;
+left: 210px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 25px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+text-align: left;
+}
+
+.Biotechnologysubpage h2{
+	position: absolute;
+left: 210px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 30px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+
 

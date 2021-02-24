@@ -5139,5 +5139,35 @@ opacity: 1;
 white-space: nowrap;
 }
 
+/*department page*/
+/*departments*/
+
+.Departmentspage h1{
+	position: absolute;
+	top: 1154px;
+left: 111px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 49px/32px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+}
+
+.Departmentspage a{
+	position: absolute;
+left: 210px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 25px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+text-align: left;
+}
 
 

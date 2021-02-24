@@ -5664,4 +5664,207 @@ white-space: nowrap;
 li:not(:last-child) {
     margin-bottom: 30px;
 }
-
+#Notice_Board7 a{
+	top:2777px;
+	left: 461px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#departments6 a{
+	top:2837px;
+	left: 461px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#placement7 a{
+	top:2897px;
+	left: 449px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#tender6 a{
+	top:2957px;
+	left: 432px;
+	width: 200px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#teqip6 a{
+	top:3017px;
+	left: 426px;
+	width: 200px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#transportation6 a{
+    top:2777px;
+	left: 795px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#libraries6 a{
+    top:2837px;
+	left: 766px;
+	width: 203px;
+	position: absolute;
+	overflow: visible;
+	text-align: center;
+   font: normal normal normal 19px/29px Poppins;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#ailab6 a{
+    top:2897px;
+    left: 785px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#clubs6 a{
+    top:2957px;
+    left: 783px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#sports6 a{
+    top:3017px;
+    left: 786px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+   text-decoration: none;
+}
+#Educational_Program6 a{
+    top:2777px;
+	left: 1139px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+	text-decoration: none;
+}
+#social_incentives6 a{
+    top:2837px;
+	left: 1117px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+	text-decoration: none;
+}
+#Campus_Life6 a{
+    top:2897px;
+	left: 1096px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+	text-decoration: none;
+}
+#About_CET6 a{
+    top:2957px;
+	left: 1085px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;
+	text-decoration: none;
+}
+#Events6 a{
+	top:3017px;
+	left: 1070px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	text-align: center;
+	letter-spacing: 0px;
+	font: normal normal normal 19px/29px Poppins;
+   color: #FFFFFF;
+   opacity: 1;	
+   text-decoration: none;
+}

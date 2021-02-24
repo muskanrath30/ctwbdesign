@@ -5916,3 +5916,21 @@ display: table;
     text-indent: initial;
    
 }
+.civil-table1{
+	top:1490px;
+	position: absolute;
+left: 111px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 30px Poppins;
+letter-spacing: 0px;
+color: #06297E;
+opacity: 1;
+white-space: nowrap;
+display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+   
+}

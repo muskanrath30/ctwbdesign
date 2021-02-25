@@ -5901,8 +5901,8 @@ white-space: nowrap;
 .civil-table{
 	top:1380px;
 	position: absolute;
-left: 350px;
-width: 264px;
+left: 111px;
+width: 90%;
 height: 68px;
 text-align: center;
 font: normal normal 600 40px Poppins;
@@ -6556,8 +6556,8 @@ display: table;
 .civil-table2{
 	top:1520px;
 	position: absolute;
-left: 300px;
-width: 264px;
+left: 111px;
+width: 90%;
 height: 68px;
 text-align: center;
 font: normal normal 600 30px Poppins;

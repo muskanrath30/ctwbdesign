@@ -6553,3 +6553,26 @@ display: table;
    opacity: 1;	
    text-decoration: none;
 }
+.civil-table2{
+	top:1520px;
+	position: absolute;
+left: 300px;
+width: 264px;
+height: 68px;
+text-align: center;
+font: normal normal 600 30px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+white-space: nowrap;
+display: table;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    text-indent: initial;
+   
+}
+.civil-table2 td,tr{
+
+ border-collapse: collapse;
+   
+}
